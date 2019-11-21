@@ -15,12 +15,12 @@ asgdb
 
 
 //función resta (a-b)
-...
+a= input("number=")
 
 
 
 
-//función multiplicación(a*b)
+//unción multiplicación(a*b)
 ...
 
 
