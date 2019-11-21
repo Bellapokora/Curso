@@ -8,7 +8,10 @@
 
 
 
+
 ggdgg
+
+
 //función resta (a-b)
 a= input("number=")
 
