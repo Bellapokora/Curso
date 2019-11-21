@@ -6,13 +6,9 @@
 	- Dividir*/
 
 
-
-
-//función suma (a+b)
-...
-asgdb
-
-
+sieeieieieieieieieieieieieie
+ee
+e
 
 //función resta (a-b)
 a= input("number=")
